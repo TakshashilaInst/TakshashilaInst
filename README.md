@@ -1,3 +1,5 @@
+# About Us
+
 The Takshashila Institution is an independent centre for research and education in public policy. 
 It is a non-partisan, non-profit organisation that advocates the values of freedom, openness, tolerance, pluralism and responsible citizenship. 
 It seeks to transform India through better public policies, bridging the governance gap by developing better public servants, civil society leaders, professionals and informed citizens.
@@ -7,4 +9,4 @@ It produces independent policy research in a number of areas of governance, it g
 
 We are based out of Bangalore, Karnataka, India.
 
-For more, please visit our website https://takshashila.org.in and follow our Twitter handle at https://twitter.com/TakshashilaInst.
+**For more, please visit our website https://takshashila.org.in and follow our Twitter handle at https://twitter.com/TakshashilaInst.**
