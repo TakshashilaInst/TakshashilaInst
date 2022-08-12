@@ -7,4 +7,4 @@ It produces independent policy research in a number of areas of governance, it g
 
 We are based out of Bangalore, Karnataka, India.
 
-For more, please visit our website @ https://takshashila.org.in.
+For more, please visit our website https://takshashila.org.in and follow our Twitter handle at https://twitter.com/TakshashilaInst.
